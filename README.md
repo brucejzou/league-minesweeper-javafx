@@ -3,7 +3,9 @@ A Minesweeper clone built with Java and JavaFX.
 
 ## Project Screenshots
 ![start screen](https://i.imgur.com/vEc34AK.png)
+
 ![Early Game Screen](https://i.imgur.com/9TN6nQG.png)
+
 ![Late Game Screen](https://i.imgur.com/vw8Wp3V.png)
 
 ## Installation
